@@ -1,6 +1,7 @@
 # Description
 
 Moves replay buffer recordings into a folder based on the active window.
+Use Gemini to modify the code so that it waits for the MKV to be remuxed into MP4, then moves the MP4 and deletes the original MKV file.
 
 **Works only on Windows!**
 
